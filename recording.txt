@@ -3,6 +3,9 @@
 ## 在本目录下创建一个新的jekyll 初试网页
 \\ https://jekyllrb.com/docs/
 
+> bundle exec jekyll serve 
+## 本地构建网站，可在localhost:4000查看
+
     ## bundle 版本过低
     > gem install bundle:'version'
 
