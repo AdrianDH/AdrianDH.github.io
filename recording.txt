@@ -1,0 +1,4 @@
+## 通过sudo apt 下载了bundle Ruby
+> bundle exec jekyll new .
+
+\\ https://jekyllrb.com/docs/
