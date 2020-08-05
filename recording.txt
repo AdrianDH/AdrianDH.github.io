@@ -15,4 +15,6 @@
     > git commit # 对所添加变化进行批注
     > git push # 上传
 
+    > git pull # 从远端下载
+
     > git rm # 在本地和远程删除文件
