@@ -49,54 +49,54 @@ pixiv热门图片
 [陶链客](http://www.toplinks.cc/s/)
 学习资料搜索网站
 
-[amazon免费图书][https://www.amazon.cn/b/ref=s9_acss_bw_h1_CNKCD_md3_w?node=116175071&pf_rd_m=A1U5RCOVU0NYF2&pf_rd_s=merchandised-search-top-2&pf_rd_r=AS20NHRFBCM47C50G344&pf_rd_t=101&pf_rd_p=ae8974e9-e726-40aa-b136-05ea452ced59&pf_rd_i=116169071]
+[amazon免费图书](https://www.amazon.cn/b/ref=s9_acss_bw_h1_CNKCD_md3_w?node=116175071&pf_rd_m=A1U5RCOVU0NYF2&pf_rd_s=merchandised-search-top-2&pf_rd_r=AS20NHRFBCM47C50G344&pf_rd_t=101&pf_rd_p=ae8974e9-e726-40aa-b136-05ea452ced59&pf_rd_i=116169071)
 亚马逊的免费资源
 
-[epubee][http://cn.epubee.com/]
+[epubee](http://cn.epubee.com/)
 小蜜蜂电子转换器+搜书
 
-[苦瓜书盘][http://www.kgbook.com/]
+[苦瓜书盘](http://www.kgbook.com/)
 提供6英寸的pdf等书资源
 
-[书格][https://new.shuge.org/]
+[书格](https://new.shuge.org/)
 主要是古籍等小众的书籍
 
-[library genesis][https://libgen.is/]
+[library genesis](https://libgen.is/)
 外文书籍文献
 
-[全国图书馆参考咨询联盟][http://www.ucdrs.superlib.net/]
+[全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 图书文献等
 
-[z-lib][https://z-lib.org/]
+[z-lib](https://z-lib.org/)
 外文图书文献
 
-[libgen-科学聚合器][https://libgen.pw/]
+[libgen-科学聚合器](https://libgen.pw/)
 提供大量图书和漫画，使用torrent比较麻烦
 
 图书转化工具——calibre
 
-《如何阅读一本书》[知乎推荐][https://www.zhihu.com/question/385912802/answer/1193818941]
+《如何阅读一本书》[知乎推荐\]\(https://www.zhihu.com/question/385912802/answer/1193818941\)
 很好的一本书，知乎有相关内容的推荐和解读，也有罗翔的读后感受，值得一读
 
 ### bilibili的资源
 
-[像心理学一样思考-斯坦福][https://www.bilibili.com/video/av51767668]
-[清华-心理学概论59讲][https://www.bilibili.com/video/BV1GW411F7aS?from=search&seid=374978375656184733]
-[耶鲁-心理学导论][https://www.bilibili.com/video/av86387]
-[情绪管理-曾仕强][https://www.bilibili.com/video/BV18x411s7rv?from=search&seid=14254628081956047893]
+[像心理学一样思考-斯坦福\]\(https://www.bilibili.com/video/av51767668\)
+[清华-心理学概论59讲\]\(https://www.bilibili.com/video/BV1GW411F7aS?from=search&seid=374978375656184733\)
+[耶鲁-心理学导论\]\(https://www.bilibili.com/video/av86387\)
+[情绪管理-曾仕强\]\(https://www.bilibili.com/video/BV18x411s7rv?from=search&seid=14254628081956047893\)
 
-[批判性思维-中国青年政治学院（谷振诣）][https://www.bilibili.com/video/av9624662]
-[博弈论-耶鲁][https://www.bilibili.com/video/av41333177]
+[批判性思维-中国青年政治学院（谷振诣）\]\(https://www.bilibili.com/video/av9624662\)
+[博弈论-耶鲁\]\(https://www.bilibili.com/video/av41333177\)
 
-[幸福课-哈佛][https://www.bilibili.com/video/av3404845]
+[幸福课-哈佛\]\(https://www.bilibili.com/video/av3404845\)
 
-[20岁光阴不再来-TED][https://www.bilibili.com/video/BV1St411Y7Ah?from=search&seid=5018439919603610427]
-[无所不及-TED][https://www.bilibili.com/video/BV1fb411g7G4?from=search&seid=6082644812758382293]
-[错误引导的艺术-TED][https://www.bilibili.com/video/BV1UW411v7SH?from=search&seid=14281544524365643711]
-[我们为什么快乐-TED][https://www.bilibili.com/video/BV1wx411F7dh?from=search&seid=13748438404057367821]
-[2019ted合集][https://www.bilibili.com/video/BV1g7411K7ut?from=search&seid=4581679983242456180]
+[20岁光阴不再来-TED\]\(https://www.bilibili.com/video/BV1St411Y7Ah?from=search&seid=5018439919603610427\)
+[无所不及-TED\]\(https://www.bilibili.com/video/BV1fb411g7G4?from=search&seid=6082644812758382293\)
+[错误引导的艺术-TED\]\(https://www.bilibili.com/video/BV1UW411v7SH?from=search&seid=14281544524365643711\)
+[我们为什么快乐-TED\]\(https://www.bilibili.com/video/BV1wx411F7dh?from=search&seid=13748438404057367821\)
+[2019ted合集\]\(https://www.bilibili.com/video/BV1g7411K7ut?from=search&seid=4581679983242456180\)
 
-[猿学][http://www.yuanxue365.com/]
+[猿学\]\(http://www.yuanxue365.com/\)
 提升自我的网站，[现已失效]
 
 ## 论坛：
@@ -154,10 +154,10 @@ pdf转换word、ppt、img等的工具网站
 [pocket](https://app.getpocket.com/)
 资料整合软件
 
-[wikihow][https://zh.wikihow.com/%E9%A6%96%E9%A1%B5]
+[wikihow\]\(https://zh.wikihow.com/%E9%A6%96%E9%A1%B5\)
 如何做任何事都可以找到
 
-[图片放大][https://bigjpg.com/]
+[图片放大\]\(https://bigjpg.com/\)
 人工智能放大模糊图片，有api
 
 fireshot-谷歌插件
@@ -182,9 +182,9 @@ latex入门博文【已读完】
 [泛函分析讲义](http://reader.epubee.com/books/mobile/b8/b8df52b4ca657c14d94c46a862218ee3/text00004.html)
 泛函分析讲的是数学无穷维的计算问题，相关的有群论等
 
-[python学习文档][https://vitu.ai]
+[python学习文档\]\(https://vitu.ai\)
 python学习-数据科学、机器学习等
-附一份知乎的[python笔记][https://www.zhihu.com/question/353341563/answer/1222079739]
+附一份知乎的[python笔记\]\(https://www.zhihu.com/question/353341563/answer/1222079739\)
 
 搜索引擎操作提示符运用
 https://zhuanlan.zhihu.com/p/22161675
@@ -290,7 +290,7 @@ https://github.com/awesomedata/awesome-public-datasets
 
 ### API:
 
-[知乎推荐][https://zhuanlan.zhihu.com/p/137102001]
+[知乎推荐\]\(https://zhuanlan.zhihu.com/p/137102001\)
 
 
 
