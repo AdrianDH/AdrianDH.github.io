@@ -1,4 +1,18 @@
 ## 通过sudo apt 下载了bundle Ruby
 > bundle exec jekyll new .
-
+## 在本目录下创建一个新的jekyll 初试网页
 \\ https://jekyllrb.com/docs/
+
+    ## bundle 版本过低
+    > gem install bundle:'version'
+
+## 进行Build的时候缺少layout的相关内容
+## 通过对朋友的进行copy  _layouts _includes
+
+    ## git 的一些操作
+    > git clone 'address'
+    > git add # 添加变化
+    > git commit # 对所添加变化进行批注
+    > git push # 上传
+
+    > git rm # 在本地和远程删除文件
