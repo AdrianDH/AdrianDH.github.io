@@ -5,9 +5,12 @@
 
 > bundle exec jekyll serve 
 ## 本地构建网站，可在localhost:4000查看
+## 注意命令地址是否在根目录，形成_site文件夹（内含通过jekyll构建的所有html文件）
 
     ## bundle 版本过低
     > gem install bundle:'version'
+    ## 或使用
+    > bundle update
 
 ## 进行Build的时候缺少layout的相关内容
 ## 通过对朋友的进行copy  _layouts _includes
@@ -21,3 +24,28 @@
     > git pull # 从远端下载
 
     > git rm # 在本地和远程删除文件
+
+## 使用_includes |- navigation.html创建多网页，_date |- navigation.yml将网页结构变量化，
+## 在navigation.html上使用{% for ''}实现快捷分网页
+
+## assets |- css 引用样式，
+> @import "main";
+## 在 _sass下写具体样式，
+.'name'{
+    'xxx';
+}
+## 然后在default.html中<link rel="stylesheet" href="/assets/css/styles.css">进行引用,使用.css为jekyll处理scss后生成的文件
+
+## 新建post.html为Blog提供框架，在根目录新建blog.html在主页面显示各blog，
+## navigation.yml中加入blog部分连接
+
+## 新建collection类别
+## / |- _config.yml中添加 
+> collection:
+>   'name':
+## 新建/ |- _'name'目录，添加collection内容
+## 根目录下新建'name'.html在主页进行显示
+## navigatin.yml引入collection的连接
+## 二级链接在_config.yml中，'name'下一级添加
+>       output: true
+
