@@ -80,6 +80,9 @@ pixiv热门图片
 [libgen-科学聚合器](https://libgen.pw/)
 提供大量图书和漫画，使用torrent比较麻烦
 
+[个人图书收集站](https://tstrs.me/1473.html)
+一个个人图书收集集和
+
 图书转化工具——calibre
 
 《如何阅读一本书》[知乎推荐](https://www.zhihu.com/question/385912802/answer/1193818941)
