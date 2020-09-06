@@ -49,3 +49,6 @@
 ## 二级链接在_config.yml中，'name'下一级添加
 >       output: true
 
+    ## 注意在about.md中的一个元数据标签
+    > permalink: /about/
+    ## 这将会产生一个在.site/about/ 下的index.html，在navigation中需要注意
