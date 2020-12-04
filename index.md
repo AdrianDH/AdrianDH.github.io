@@ -5,4 +5,7 @@
 layout: home
 ---
 
-This is a website builded by jekyll. 
+This is a website builded by jekyll.
+
+Authored by || Adrian ||.
+
