@@ -7,5 +7,5 @@ layout: home
 
 This is a website builded by jekyll.
 
-Authored by || Adrian ||.
+Authored by Adrian .
 
