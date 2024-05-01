@@ -59,7 +59,8 @@ Puppeteer google发布的Node库，通过DevTools协议控制浏览器，包括c
 
 Playwright 微软开发的Web自动化测试工具，支持Chrome、msedge、firefox、opera、safari等
 
-## JS引擎 部分请求在传参过程中需要经过复杂的JavaScript代码生成，使用JS引擎可以避免python对js代码逻辑复现和python与js实现差异
+## JS引擎 
+部分请求在传参过程中需要经过复杂的JavaScript代码生成，使用JS引擎可以避免python对js代码逻辑复现和python与js实现差异
 
 PyMiniRacer 适用于python的最小的现代嵌入式v8，无需额外安装javascript环境
 
